@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.23b499ec.css",
-    "main.js": "/static/js/main.a4840b93.js",
+    "main.css": "/static/css/main.5048307e.css",
+    "main.js": "/static/js/main.ba82d327.js",
     "static/js/787.37faa4c4.chunk.js": "/static/js/787.37faa4c4.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.4289c5c9d8047f968981.png",
     "static/media/programmer.jpg": "/static/media/programmer.a6c3dc29a7478eacabb8.jpg",
+    "static/media/loader.gif": "/static/media/loader.22ae165f61dbc8ba84a0.gif",
+    "static/media/Java.png": "/static/media/Java.7a233e1d5dea2ed0ab61.png",
     "static/media/react.png": "/static/media/react.20adfb35ae6a6e5817bf.png",
+    "static/media/flutter.svg": "/static/media/flutter.847ae81f5430402216fd160a571e3a89.svg",
+    "static/media/strapi.svg": "/static/media/strapi.3c6be016f44f1c7f33a46dd5550eb172.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.b508609b24c1a2bc58576411df58bb4b.svg",
+    "static/media/mysql.svg": "/static/media/mysql.43de11b606ebbf08dc0ff0a2c482c686.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.454eb4e556fb84e77b09c13f75516e55.svg",
+    "static/media/laravel.svg": "/static/media/laravel.75535aacc218d8a7cf1fe62fe0771419.svg",
     "index.html": "/index.html",
-    "main.23b499ec.css.map": "/static/css/main.23b499ec.css.map",
-    "main.a4840b93.js.map": "/static/js/main.a4840b93.js.map",
+    "static/media/vue.svg": "/static/media/vue.f1fd23be1db9361fbcd81511fe862b08.svg",
+    "main.5048307e.css.map": "/static/css/main.5048307e.css.map",
+    "main.ba82d327.js.map": "/static/js/main.ba82d327.js.map",
     "787.37faa4c4.chunk.js.map": "/static/js/787.37faa4c4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23b499ec.css",
-    "static/js/main.a4840b93.js"
+    "static/css/main.5048307e.css",
+    "static/js/main.ba82d327.js"
   ]
 }
